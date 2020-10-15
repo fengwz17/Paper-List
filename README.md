@@ -8,4 +8,4 @@ Rafael Menezes, Herbert Rocha, Lucas C. Cordeiro, Raimundo S. Barreto.: Map2Chec
 
 F. He, Q. Yu and L. Cai, "Efficient Summary Reuse for Software Regression Verification," in IEEE Transactions on Software Engineering, 2020. Early Access. [https://doi.org/10.1109/TSE.2020.3021477](https://doi.org/10.1109/TSE.2020.3021477).
 
-aaa and ddd $$x>0$$ddd
+aaa and ddd $x>0$ddd
