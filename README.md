@@ -10,4 +10,4 @@ Some papers to read recently
 
 [4] Matthias Heizmann, Jochen Hoenicke, and Andreas Podelski. 2014. Termination Analysis by Learning Terminating Programs. In Proceedings of 26th International Conference on Computer Aided Verification (CAV’14). Springer-Verlag New York, Inc., New York, NY, USA, 797–813. [https://doi.org/10.1007/978-3-319-08867-9_53](https://doi.org/10.1007/978-3-319-08867-9_53)
 
-
+[5] Daca P., Henzinger T.A., Kupriyanov A. (2016) Array Folds Logic. In: Chaudhuri S., Farzan A. (eds) Computer Aided Verification. CAV 2016. Lecture Notes in Computer Science, vol 9780. Springer, Cham. [https://doi.org/10.1007/978-3-319-41540-6_13](https://doi.org/10.1007/978-3-319-41540-6_13)
