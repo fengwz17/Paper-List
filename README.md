@@ -13,3 +13,6 @@ Some papers to read recently
 [5] Daca P., Henzinger T.A., Kupriyanov A. (2016) **Array Folds Logic**. In: Chaudhuri S., Farzan A. (eds) Computer Aided Verification. CAV 2016. Lecture Notes in Computer Science, vol 9780. Springer, Cham. [https://doi.org/10.1007/978-3-319-41540-6_13](https://doi.org/10.1007/978-3-319-41540-6_13)
 
 [6] Chalupa M. (2020) **DG: Analysis and Slicing of LLVM Bitcode**. In: Hung D.V., Sokolsky O. (eds) Automated Technology for Verification and Analysis. ATVA 2020. Lecture Notes in Computer Science, vol 12302. Springer, Cham. [https://doi.org/10.1007/978-3-030-59152-6_33](https://doi.org/10.1007/978-3-030-59152-6_33)
+
+## Learning
+[1] Maler, O., Pnueli, A.: **On the learnability of infinitary regular sets**. Inf. Com-put.118(2), 316–326 (1995). [https://doi.org/10.1006/inco.1995.1070](https://doi.org/10.1006/inco.1995.1070)
