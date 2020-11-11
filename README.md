@@ -1,5 +1,5 @@
 # Paper-List
-Some papers to read recently
+Some papers to read recently.
 
 ## Program analysis and verification
 [1] Heizmann, M., Hoenicke, J., Podelski, A.: **Refinement of Trace Abstraction**. SAS 2009: 69-85 (2009). [https://doi.org/10.1007/978-3-642-03237-0\_7](https://doi.org/10.1007/978-3-642-03237-0\_7)
