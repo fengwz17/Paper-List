@@ -14,5 +14,8 @@ Some papers to read recently
 
 [6] Chalupa M. (2020) **DG: Analysis and Slicing of LLVM Bitcode**. In: Hung D.V., Sokolsky O. (eds) Automated Technology for Verification and Analysis. ATVA 2020. Lecture Notes in Computer Science, vol 12302. Springer, Cham. [https://doi.org/10.1007/978-3-030-59152-6_33](https://doi.org/10.1007/978-3-030-59152-6_33)
 
+### Symbolic execution
+[7] Cadar, C., Dunbar, D., Engler, D.R. : **KLEE: unassisted and automatic generation of high-converage tests for complex systems programs.** In: Draves, R., Van Renesse, R.(eds.) 8th usenix Symposium on Operating Systems Desigh and Implementation, OSDI 2008, December 8-10, 2008, San Diego, California, USA, Proceedings. pp.209-224. USENIX Association (2008), [http://www.usenix.org/events/osdi08/tech/full\_papers/cadar/cadar.pdf](http://www.usenix.org/events/osdi08/tech/full\_papers/cadar/cadar.pdf)  
+
 ## Learning
 [1] Maler, O., Pnueli, A.: **On the learnability of infinitary regular sets**. Inf. Com-put.118(2), 316–326 (1995). [https://doi.org/10.1006/inco.1995.1070](https://doi.org/10.1006/inco.1995.1070)
