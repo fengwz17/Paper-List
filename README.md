@@ -22,3 +22,6 @@ Some papers to read recently.
 
 ## POMDP ModelChecking
 [1] Carr, S., Jansen, N., Wimmer, R., Serban, A.C., Becker, B., Topcu, U.: **Counterexample-guided strategy improvement for pomdps using recurrent neural networks**. In: Kraus, S. (ed.) Proceedings of the Twenty-Eighth InternationalJoint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019. pp. 5532–5539. ijcai.org (2019). [https://doi.org/10.24963/ijcai.2019/768](https://doi.org/10.24963/ijcai.2019/768)
+
+[2] Pineau, J., Gordon, G.J., Thrun, S.: **Point-based value iteration: An anytimealgorithm for pomdps**. In: Gottlob, G., Walsh, T. (eds.) IJCAI-03, Proceed-ings of the Eighteenth International Joint Conference on Artificial Intelligence,Acapulco, Mexico, August 9-15, 2003. pp. 1025–1032. Morgan Kaufmann (2003).[http://ijcai.org/Proceedings/03/Papers/147.pdf](http://ijcai.org/Proceedings/03/Papers/147.pdf)
+
