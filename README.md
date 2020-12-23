@@ -14,10 +14,12 @@ Some papers to read recently.
 
 [6] Chalupa M. (2020) **DG: Analysis and Slicing of LLVM Bitcode**. In: Hung D.V., Sokolsky O. (eds) Automated Technology for Verification and Analysis. ATVA 2020. Lecture Notes in Computer Science, vol 12302. Springer, Cham. [https://doi.org/10.1007/978-3-030-59152-6_33](https://doi.org/10.1007/978-3-030-59152-6_33)
 
+[7] Gershuni, E., Amit, N., Gurfinkel, A., Narodytska, N., Navas, J.A., Rinet-zky, N., Ryzhyk, L., Sagiv, M.: **Simple and precise static analysis of untrustedlinux kernel extensions**. In: McKinley, K.S., Fisher, K. (eds.) Proceedings ofthe 40th ACM SIGPLAN Conference on Programming Language Design andImplementation, PLDI 2019, Phoenix, AZ, USA, June 22-26, 2019. pp. 1069–1084. ACM (2019). [https://doi.org/10.1145/3314221.3314590](https://doi.org/10.1145/3314221.3314590)
+
 ### Symbolic execution
 [7] Cadar, C., Dunbar, D., Engler, D.R. : **KLEE: unassisted and automatic generation of high-converage tests for complex systems programs.** In: Draves, R., Van Renesse, R.(eds.) 8th usenix Symposium on Operating Systems Desigh and Implementation, OSDI 2008, December 8-10, 2008, San Diego, California, USA, Proceedings. pp.209-224. USENIX Association (2008), [http://www.usenix.org/events/osdi08/tech/full\_papers/cadar/cadar.pdf](http://www.usenix.org/events/osdi08/tech/full\_papers/cadar/cadar.pdf)  
 
-[8] Kapus, T., Ish-Shalom, O., Itzhaky, S., Rinetzky, N., Cadar, C.: **Computing sum-maries of string loops in C for better testing and refactoring.** In: McKinley, K.S.,Fisher, K. (eds.) Proceedings of the 40th ACM SIGPLAN Conference on Program-ming Language Design and Implementation, PLDI 2019, Phoenix, AZ, USA, June22-26, 2019. pp. 874–888. ACM (2019). [https://doi.org/10.1145/3314221.3314610](https://doi.org/10.1145/3314221.3314610).
+[8] Kapus, T., Ish-Shalom, O., Itzhaky, S., Rinetzky, N., Cadar, C.: **Computing summaries of string loops in C for better testing and refactoring.** In: McKinley, K.S.,Fisher, K. (eds.) Proceedings of the 40th ACM SIGPLAN Conference on Program-ming Language Design and Implementation, PLDI 2019, Phoenix, AZ, USA, June22-26, 2019. pp. 874–888. ACM (2019). [https://doi.org/10.1145/3314221.3314610](https://doi.org/10.1145/3314221.3314610).
 
 
 ## Learning
