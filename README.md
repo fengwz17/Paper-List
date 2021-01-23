@@ -18,10 +18,14 @@ Some papers to read recently.
 
 [***Report***](https://github.com/fengwz17/Paper-List/blob/master/1.12_seahorn.pdf)
 
-### Symbolic execution
-[7] Cadar, C., Dunbar, D., Engler, D.R. : **KLEE: unassisted and automatic generation of high-converage tests for complex systems programs.** In: Draves, R., Van Renesse, R.(eds.) 8th usenix Symposium on Operating Systems Desigh and Implementation, OSDI 2008, December 8-10, 2008, San Diego, California, USA, Proceedings. pp.209-224. USENIX Association (2008), [http://www.usenix.org/events/osdi08/tech/full\_papers/cadar/cadar.pdf](http://www.usenix.org/events/osdi08/tech/full\_papers/cadar/cadar.pdf)  
+[8] Singh G, Püschel M, Vechev M.: **Fast numerical program analysis with reinforcement learning**. [C]//International Conference on Computer Aided Verification (CAV'18). Springer, Cham, 2018: 211-229. [https://doi.org/10.1007/978-3-319-96145-3_12](https://doi.org/10.1007/978-3-319-96145-3_12)
 
-[8] Kapus, T., Ish-Shalom, O., Itzhaky, S., Rinetzky, N., Cadar, C.: **Computing summaries of string loops in C for better testing and refactoring.** In: McKinley, K.S.,Fisher, K. (eds.) Proceedings of the 40th ACM SIGPLAN Conference on Program-ming Language Design and Implementation, PLDI 2019, Phoenix, AZ, USA, June22-26, 2019. pp. 874–888. ACM (2019). [https://doi.org/10.1145/3314221.3314610](https://doi.org/10.1145/3314221.3314610).
+[9] Kim S K, Venet A J, Thakur A V.: **Deterministic parallel fixpoint computation**[J]. Proceedings of the ACM on Programming Languages, 2019, 4(POPL): 1-33. [https://arxiv.org/pdf/1909.05951.pdf](https://arxiv.org/pdf/1909.05951.pdf), [https://doi.org/10.1145/3371082](https://doi.org/10.1145/3371082)
+
+### Symbolic execution
+[1] Cadar, C., Dunbar, D., Engler, D.R. : **KLEE: unassisted and automatic generation of high-converage tests for complex systems programs.** In: Draves, R., Van Renesse, R.(eds.) 8th usenix Symposium on Operating Systems Desigh and Implementation, OSDI 2008, December 8-10, 2008, San Diego, California, USA, Proceedings. pp.209-224. USENIX Association (2008), [http://www.usenix.org/events/osdi08/tech/full\_papers/cadar/cadar.pdf](http://www.usenix.org/events/osdi08/tech/full\_papers/cadar/cadar.pdf)  
+
+[2] Kapus, T., Ish-Shalom, O., Itzhaky, S., Rinetzky, N., Cadar, C.: **Computing summaries of string loops in C for better testing and refactoring.** In: McKinley, K.S.,Fisher, K. (eds.) Proceedings of the 40th ACM SIGPLAN Conference on Program-ming Language Design and Implementation, PLDI 2019, Phoenix, AZ, USA, June22-26, 2019. pp. 874–888. ACM (2019). [https://doi.org/10.1145/3314221.3314610](https://doi.org/10.1145/3314221.3314610).
 
 
 ## Learning
