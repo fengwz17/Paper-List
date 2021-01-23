@@ -14,7 +14,9 @@ Some papers to read recently.
 
 [6] Chalupa M. (2020) **DG: Analysis and Slicing of LLVM Bitcode**. In: Hung D.V., Sokolsky O. (eds) Automated Technology for Verification and Analysis. ATVA 2020. Lecture Notes in Computer Science, vol 12302. Springer, Cham. [https://doi.org/10.1007/978-3-030-59152-6_33](https://doi.org/10.1007/978-3-030-59152-6_33)
 
-[7] Gurfinkel, A., Kahsai, T., Komuravelli, A., Navas, J.A.: **The seahorn verificationframework**. In: Kroening, D., Pasareanu, C.S. (eds.) Computer Aided Verification- 27th International Conference, CAV 2015, San Francisco, CA, USA, July 18-24, 2015, Proceedings, Part I. Lecture Notes in Computer Science, vol. 9206, pp.343–361. Springer (2015). [https://doi.org/10.1007/978-3-319-21690-4\_20](https://doi.org/10.1007/978-3-319-21690-4\_20) : [Report](https://github.com/fengwz17/Paper-List/blob/master/1.12_seahorn.pdf)
+[7] Gurfinkel, A., Kahsai, T., Komuravelli, A., Navas, J.A.: **The seahorn verificationframework**. In: Kroening, D., Pasareanu, C.S. (eds.) Computer Aided Verification- 27th International Conference, CAV 2015, San Francisco, CA, USA, July 18-24, 2015, Proceedings, Part I. Lecture Notes in Computer Science, vol. 9206, pp.343–361. Springer (2015). [https://doi.org/10.1007/978-3-319-21690-4\_20](https://doi.org/10.1007/978-3-319-21690-4\_20)
+
+[***Report***](https://github.com/fengwz17/Paper-List/blob/master/1.12_seahorn.pdf)
 
 ### Symbolic execution
 [7] Cadar, C., Dunbar, D., Engler, D.R. : **KLEE: unassisted and automatic generation of high-converage tests for complex systems programs.** In: Draves, R., Van Renesse, R.(eds.) 8th usenix Symposium on Operating Systems Desigh and Implementation, OSDI 2008, December 8-10, 2008, San Diego, California, USA, Proceedings. pp.209-224. USENIX Association (2008), [http://www.usenix.org/events/osdi08/tech/full\_papers/cadar/cadar.pdf](http://www.usenix.org/events/osdi08/tech/full\_papers/cadar/cadar.pdf)  
@@ -26,7 +28,10 @@ Some papers to read recently.
 [1] Maler, O., Pnueli, A.: **On the learnability of infinitary regular sets**. Inf. Com-put.118(2), 316–326 (1995). [https://doi.org/10.1006/inco.1995.1070](https://doi.org/10.1006/inco.1995.1070)
 
 ## POMDP ModelChecking
-[1] Carr, S., Jansen, N., Wimmer, R., Serban, A.C., Becker, B., Topcu, U.: **Counterexample-guided strategy improvement for pomdps using recurrent neural networks**. In: Kraus, S. (ed.) Proceedings of the Twenty-Eighth InternationalJoint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019. pp. 5532–5539. ijcai.org (2019). [https://doi.org/10.24963/ijcai.2019/768](https://doi.org/10.24963/ijcai.2019/768) : [Report](https://github.com/fengwz17/Paper-List/blob/master/1.6_POMDPsRNN.pdf)
+[1] Carr, S., Jansen, N., Wimmer, R., Serban, A.C., Becker, B., Topcu, U.: **Counterexample-guided strategy improvement for pomdps using recurrent neural networks**. In: Kraus, S. (ed.) Proceedings of the Twenty-Eighth InternationalJoint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019. pp. 5532–5539. ijcai.org (2019). [https://doi.org/10.24963/ijcai.2019/768](https://doi.org/10.24963/ijcai.2019/768) 
+
+[***Report***](https://github.com/fengwz17/Paper-List/blob/master/1.6_POMDPsRNN.pdf)
+
 
 [2] Pineau, J., Gordon, G.J., Thrun, S.: **Point-based value iteration: An anytimealgorithm for pomdps**. In: Gottlob, G., Walsh, T. (eds.) IJCAI-03, Proceed-ings of the Eighteenth International Joint Conference on Artificial Intelligence,Acapulco, Mexico, August 9-15, 2003. pp. 1025–1032. Morgan Kaufmann (2003).[http://ijcai.org/Proceedings/03/Papers/147.pdf](http://ijcai.org/Proceedings/03/Papers/147.pdf)
 
