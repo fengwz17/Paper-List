@@ -22,7 +22,9 @@ Some papers to read recently.
 
 [***Report***](https://github.com/fengwz17/Paper-List/blob/master/3.2CAV18RL.pdf)
 
-[9] Kim S K, Venet A J, Thakur A V. **Deterministic parallel fixpoint computation**[J]. Proceedings of the ACM on Programming Languages, 2019, 4(POPL): 1-33. [https://arxiv.org/pdf/1909.05951.pdf](https://arxiv.org/pdf/1909.05951.pdf), [https://doi.org/10.1145/3371082](https://doi.org/10.1145/3371082)
+[9] Singh, G., Püschel, M., Vechev, M.T.: **A practical construction for decomposing numerical abstract domains**. Proc. ACM Program. Lang.2(POPL), 55:1–55:28 (2018).[https://doi.org/10.1145/3158143,https://doi.org/10.1145/31581432](https://doi.org/10.1145/3158143,https://doi.org/10.1145/31581432)
+
+[10] Kim S K, Venet A J, Thakur A V. **Deterministic parallel fixpoint computation**[J]. Proceedings of the ACM on Programming Languages, 2019, 4(POPL): 1-33. [https://arxiv.org/pdf/1909.05951.pdf](https://arxiv.org/pdf/1909.05951.pdf), [https://doi.org/10.1145/3371082](https://doi.org/10.1145/3371082)
 
 ### Symbolic execution
 [1] Cadar, C., Dunbar, D., Engler, D.R. : **KLEE: unassisted and automatic generation of high-converage tests for complex systems programs.** In: Draves, R., Van Renesse, R.(eds.) 8th usenix Symposium on Operating Systems Desigh and Implementation, OSDI 2008, December 8-10, 2008, San Diego, California, USA, Proceedings. pp.209-224. USENIX Association (2008), [http://www.usenix.org/events/osdi08/tech/full\_papers/cadar/cadar.pdf](http://www.usenix.org/events/osdi08/tech/full\_papers/cadar/cadar.pdf)  
