@@ -28,8 +28,10 @@ Some papers to read recently.
 
 [2] Kapus, T., Ish-Shalom, O., Itzhaky, S., Rinetzky, N., Cadar, C.: **Computing summaries of string loops in C for better testing and refactoring.** In: McKinley, K.S.,Fisher, K. (eds.) Proceedings of the 40th ACM SIGPLAN Conference on Program-ming Language Design and Implementation, PLDI 2019, Phoenix, AZ, USA, June22-26, 2019. pp. 874–888. ACM (2019).  [***Paper***](https://doi.org/10.1145/3314221.3314610).
 
+## Automata Theory
+[1] Babiak, T., Kretínský, M., Rehák, V., Strejcek, J.: **LTL to büchi automatatranslation: Fast and more deterministic**. In: Flanagan, C., König, B. (eds.)Tools and Algorithms for the Construction and Analysis of Systems - 18th In-ternational Conference, TACAS 2012. Proceedings. Lecture Notes in Computer Science,vol. 7214, pp. 95–109. Springer (2012). [***Paper***](https://doi.org/10.1007/978-3-642-28756-5_8)
 
-## Learning
+### Learning
 [1] Maler, O., Pnueli, A.: **On the learnability of infinitary regular sets**. Inf. Com-put.118(2), 316–326 (1995).  [***Paper***](https://doi.org/10.1006/inco.1995.1070)
 
 ## POMDP ModelChecking
