@@ -33,7 +33,7 @@ Papers that have been read and to be read recently.
 
 [2] Li, Y., Vardi, M.Y., Zhang, L.: **On the power of unambiguity in büchi comple-mentation**. In: Raskin, J., Bresolin, D. (eds.) Proceedings 11th International Sym-posium on Games, Automata, Logics, and Formal Verification, GandALF 2020,Brussels, Belgium, September 21-22, 2020. EPTCS, vol. 326, pp. 182–198 (2020).[***Paper***](https://doi.org/10.4204/EPTCS.326.12).
 
-[3] Blahoudek, F., Heizmann, M., Schewe, S., Strejcek, J., Tsai, M.: **Complement-ing semi-deterministic büchi automata**. In: Chechik, M., Raskin, J. (eds.) Toolsand Algorithms for the Construction and Analysis of Systems - 22nd Interna-tional Conference, TACAS 2016, Held as Part of the European Joint Conferenceson Theory and Practice of Software, ETAPS 2016, Eindhoven, The Netherlands,April 2-8, 2016, Proceedings. Lecture Notes in Computer Science, vol. 9636, pp.770–787. Springer (2016). [***Paper***](https://doi.org/10.1007/978-3-662-49674-9_49).
+[3] Blahoudek, F., Heizmann, M., Schewe, S., Strejcek, J., Tsai, M.: **Complementing semi-deterministic büchi automata**. In: Chechik, M., Raskin, J. (eds.) Toolsand Algorithms for the Construction and Analysis of Systems - 22nd Interna-tional Conference, TACAS 2016, Held as Part of the European Joint Conferenceson Theory and Practice of Software, ETAPS 2016, Eindhoven, The Netherlands,April 2-8, 2016, Proceedings. Lecture Notes in Computer Science, vol. 9636, pp.770–787. Springer (2016). [***Paper***](https://doi.org/10.1007/978-3-662-49674-9_49).
 
 ### Learning
 [1] Maler, O., Pnueli, A.: **On the learnability of infinitary regular sets**. Inf. Com-put.118(2), 316–326 (1995).  [***Paper***](https://doi.org/10.1006/inco.1995.1070)
