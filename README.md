@@ -44,3 +44,6 @@ Papers that have been read and to be read recently.
 
 [2] Pineau, J., Gordon, G.J., Thrun, S.: **Point-based value iteration: An anytimealgorithm for pomdps**. In: Gottlob, G., Walsh, T. (eds.) IJCAI-03, Proceed-ings of the Eighteenth International Joint Conference on Artificial Intelligence,Acapulco, Mexico, August 9-15, 2003. pp. 1025–1032. Morgan Kaufmann (2003). [***Paper***](http://ijcai.org/Proceedings/03/Papers/147.pdf)
 
+### Hardware Model Checking
+[1] Armstrong, A., Bauereiss, T., Campbell, B., Reid, A., Gray, K.E., Norton, R.M.,Mundkur, P., Wassell, M., French, J., Pulte, C., Flur, S., Stark, I., Krishnaswami,N., Sewell, P.: ISA semantics for armv8-a, risc-v, and CHERI-MIPS. Proc. ACMProgram. Lang.3(POPL), 71:1–71:31 (2019). [***https://doi.org/10.1145/3290384***](https://doi.org/10.1145/3290384)
+
