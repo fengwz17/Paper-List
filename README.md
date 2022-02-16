@@ -47,3 +47,4 @@ Papers that have been read and to be read recently.
 ## Hardware Model Checking
 [1] Armstrong, A., Bauereiss, T., Campbell, B., Reid, A., Gray, K.E., Norton, R.M.,Mundkur, P., Wassell, M., French, J., Pulte, C., Flur, S., Stark, I., Krishnaswami,N., Sewell, P.: ISA semantics for armv8-a, risc-v, and CHERI-MIPS. Proc. ACMProgram. Lang.3(POPL), 71:1–71:31 (2019). [***https://doi.org/10.1145/3290384***](https://doi.org/10.1145/3290384)
 
+[2] Mann, M., Irfan, A., Lonsing, F., Yang, Y., Zhang, H., Brown, K., Gupta, A., Barrett, C.W.: Pono: A flexible and extensible smt-based model checker. CAV 2021, Virtual Event, July 20-23, 2021, Proceedings, Part II. Lecture Notes in Computer Science, vol. 12760, pp. 461–474. Springer (2021). ***https://doi.org/10.1007/978-3-030-81688-9_22***
